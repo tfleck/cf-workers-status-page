@@ -4,7 +4,6 @@ account_id = ""
 type = "webpack"
 webpack_config = "node_modules/flareact/webpack"
 route = "status.theofleck.com/*"
-zone_id = "d6a47373d3c974e2349a3b312b8ffda3"
 
 [triggers]
 crons = ["*/10 * * * *"]
