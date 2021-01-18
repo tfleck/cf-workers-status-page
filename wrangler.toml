@@ -3,7 +3,6 @@ workers_dev = false
 account_id = ""
 type = "webpack"
 webpack_config = "node_modules/flareact/webpack"
-route = "status.theofleck.com/*"
 
 [triggers]
 crons = ["*/10 * * * *"]
